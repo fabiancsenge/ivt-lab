@@ -77,7 +77,7 @@ public class GT4500 implements SpaceShip {
         break;
 
       case ALL:
-        // try to fire both of the torpedo stores
+        // try to fire both of the torpedo stores - Merge conflict (branch-B)
         boolean firstfired = false;
         boolean secondfired = false;
         if (! primaryTorpedoStore.isEmpty()) {
