@@ -80,7 +80,7 @@ public class GT4500 implements SpaceShip {
 <<<<<<< HEAD
         // try to fire both of the torpedo stores - Merge conlfict (branch-A)
 =======
-        // try to fire both of the torpedo stores - Merge conflict (branch-A)
+        // try to fire both of the torpedo stores - Merge conlfict (branch-A)
 >>>>>>> branch-B
         boolean firstfired = false;
         boolean secondfired = false;
